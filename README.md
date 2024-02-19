@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=ckauten)
+![Codewars](https://github.r2v.ch/codewars?user=ckauten&theme=gradient)
 
 <!--
 **ckauten/ckauten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
