@@ -1,9 +1,4 @@
-<p align="center" >
-    <a href="https://www.codewars.com/users/ckauten">
-      <img src="https://github.r2v.ch/codewars?user=ckauten&theme=gradient" />
-    </a>
-</p>
-
+Hello! Welcome to my page. Here you will find repositories containing my most recent projects and my completed codewars solutions! Please explore!
 <!--
 **ckauten/ckauten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
